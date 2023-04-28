@@ -1,0 +1,80 @@
+
+body{
+    background-color: black;
+    background-image:url("https://w0.peakpx.com/wallpaper/6/817/HD-wallpaper-one-piece.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+
+}
+.lo{
+    background-image:url("https://w0.peakpx.com/wallpaper/1005/796/HD-wallpaper-one-piece-monkeydluffy-onepiece-thumbnail.jpg");
+}
+.wa{
+    background-image:url("https://w0.peakpx.com/wallpaper/237/165/HD-wallpaper-one-piece-onepiece-luffy.jpg");
+}
+.what{
+    background-image:url("https://w0.peakpx.com/wallpaper/90/737/HD-wallpaper-roronoa-zoro-hypebeast-katana-zoro-one-piece-one-piece-fanart-one-piece-samurai-anime-luffy-one-piece-zoro-fanart.jpg");
+}
+.do{
+    background-image:url("https://w0.peakpx.com/wallpaper/376/277/HD-wallpaper-roronoa-zoro-anime-luffy-onepiece-sword.jpg");
+}
+.de{
+    background-image:url("https://w0.peakpx.com/wallpaper/242/1007/HD-wallpaper-one-piece-luffy-anime-luffy-monkey-d-luffy-mugiwara-one-piece.jpg");
+}
+.titulo{
+    display: block;
+}
+
+h1{
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom:-10px;
+    color:red;
+    text-shadow: 2px 3px 5px rgb(4, 226, 255);
+    font-size: 45px;
+}
+h2{
+    margin-top: 7%;
+    color: antiquewhite;
+    text-align: center;
+    margin-bottom: px;
+    font-size: 30px;
+    color: orangered;
+    text-shadow: 1px 2px 5px rgb(0, 255, 98);
+}
+.padre{
+    margin-top: 20%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+button{
+    height: 55px;
+    width: 155px;
+    font-size: 30px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 6, 6);
+    border-radius: 5rem;
+    border: 2px solid blue;
+    font-style: italic;
+    text-align: center;
+    margin-bottom: 30px;
+}
+button:hover{
+    color: black;
+    background-color: aliceblue;
+    transition: 1s;
+}
+a{
+    text-decoration: none;
+}
+.enlace{
+    color:rgb(236, 233, 16);
+}
+.dia{
+    margin-bottom: 30px;
+}
